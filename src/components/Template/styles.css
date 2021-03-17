@@ -1,0 +1,19 @@
+.container {
+  background-color: #f5f5f5;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.component {
+  width: 85%;
+  margin: 0 auto !important;
+  /* justify-content: center; */
+}
+
+.title {
+  color: #005767;
+}
+
+.subtitle {
+  color: #009cb9;
+}
